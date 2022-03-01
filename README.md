@@ -7,8 +7,9 @@ ___
 - 📫 How to reach me: revanthmbontha@gmail.com
 - 🥅 2022 goals: Creating all the personal projects I have planned
 - ⚡ Fun fact: I love playing the piano 🎹
-- 👤 Portfolio: [Personal Website](https://revanthmbontha.in)
-- 📰 Blog: [Blog](https://revanthmbontha.in)
+- 👤 Portfolio: [Link](https://revanthmbontha.in)
+- 📰 Blog: [Link](https://revanthmbontha.in)
+- 👨‍🎨 Artstation: [Link](https://www.artstation.com/revanthmbontha)
 ___
 ### Proficient in:
 <!-- Python -->
@@ -23,8 +24,6 @@ ___
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <!-- Tensorflow -->
 <img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<!-- Unreal Engine -->
-<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <!-- PyCharm -->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <!-- Visual Studio Code -->
