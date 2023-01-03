@@ -4,11 +4,8 @@ ___
 
 - 🔭 I’m currently working on an [Applied Roots AI Course](https://www.appliedaicourse.com/)
 - 🌱 I’m currently learning Python for Software Development and Artificial Intelligence
-- 📫 How to reach me: revanthmbontha@gmail.com
 - 🥅 2022 goals: Creating all the personal projects I have planned
 - ⚡ Fun fact: I love playing the piano 🎹
-- 👤 Portfolio: [Link](https://revanthmbontha.in)
-- 📰 Blog: [Link](https://revanthmbontha.in)
 - 👨‍🎨 Artstation: [Link](https://www.artstation.com/revanthmbontha)
 ___
 ### Proficient in:
