@@ -11,8 +11,6 @@ ___
 ### Proficient in:
 <!-- Python -->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<!-- Django -->
-<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
 <!-- Pandas -->
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <!-- CPP -->
