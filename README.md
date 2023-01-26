@@ -9,20 +9,44 @@ ___
 - 👨‍🎨 Artstation: [Link](https://www.artstation.com/revanthmbontha)
 ___
 ### Proficient in:
-<!-- Python -->
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<!-- Pandas -->
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<!-- CPP -->
-<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<!-- Jupyter Notebook -->
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<!-- Tensorflow -->
-<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<!-- PyCharm -->
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<!-- Visual Studio Code -->
-<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<!-- HTML -->
+<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+<!-- CSS -->
+<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<!-- Bootstrap -->
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+
+<!-- TailwindCSS -->
+<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+
+<!-- JS -->
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<!-- jQuery -->
+<img align="left" alt="jQuery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
+
+<!-- EJS -->
+<img align="left" alt="EJS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9ew0h7w66Rer66EasIYeo23tncThSQmvHlBhK-yRcazVpX-o6iIFgiHySAz60kOU0DA&usqp=CAU" style="padding-right:10px;" />
+
+<!-- SQL -->
+<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<!-- MongoDB -->
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+<!-- Express -->
+<img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="padding-right:10px;" />
+
+<!-- React -->
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<!-- Node -->
+<img align="left" alt="Node" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+
 
 
 
