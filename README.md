@@ -3,8 +3,8 @@
 ___
 
 - 🔭 I’m currently working on an [Applied Roots AI Course](https://www.appliedaicourse.com/)
-- 🌱 I’m currently learning Python for Software Development and Artificial Intelligence
-- 🥅 2022 goals: Creating all the personal projects I have planned
+- 🌱 I’m currently learning React and other related packages for Web Development
+- 🥅 2023 goals: Creating all the personal projects I have planned
 - ⚡ Fun fact: I love playing the piano 🎹
 - 👨‍🎨 Artstation: [Link](https://www.artstation.com/revanthmbontha)
 ___
