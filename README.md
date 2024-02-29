@@ -2,9 +2,9 @@
 #### I am a self taught software developer.
 ___
 
-- 🔭 I’m currently working on an [Applied Roots AI Course](https://www.appliedaicourse.com/)
+- 🔭 I’m currently working on an [Internshala Full Stack Development Course](https://trainings.internshala.com/full-stack-web-development-placement-guarantee-course/)
 - 🌱 I’m currently learning React and other related packages for Web Development
-- 🥅 2023 goals: Creating all the personal projects I have planned
+- 🥅 2024 goals: Applying the skills I have learned in real world scenarios
 - ⚡ Fun fact: I love playing the piano 🎹
 - 👨‍🎨 Artstation: [Link](https://www.artstation.com/revanthmbontha)
 ___
