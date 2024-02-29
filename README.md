@@ -20,7 +20,7 @@ ___
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
 <!-- TailwindCSS -->
-<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 
 <!-- JS -->
 <img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
